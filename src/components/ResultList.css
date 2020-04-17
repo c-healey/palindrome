@@ -1,0 +1,10 @@
+.result-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: auto;
+  grid-gap: 1rem;
+}
+.item {
+  background-color: papayawhip;
+  padding: 0.75rem;
+}
