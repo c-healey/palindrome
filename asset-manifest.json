@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/palindrome/static/css/main.c0853681.chunk.css",
+    "main.js": "/palindrome/static/js/main.9dfc1f70.chunk.js",
+    "main.js.map": "/palindrome/static/js/main.9dfc1f70.chunk.js.map",
+    "runtime-main.js": "/palindrome/static/js/runtime-main.9a50c721.js",
+    "runtime-main.js.map": "/palindrome/static/js/runtime-main.9a50c721.js.map",
+    "static/js/2.50fd2a42.chunk.js": "/palindrome/static/js/2.50fd2a42.chunk.js",
+    "static/js/2.50fd2a42.chunk.js.map": "/palindrome/static/js/2.50fd2a42.chunk.js.map",
+    "index.html": "/palindrome/index.html",
+    "precache-manifest.b601b575a1fdaed1ebb5a1e018172fdc.js": "/palindrome/precache-manifest.b601b575a1fdaed1ebb5a1e018172fdc.js",
+    "service-worker.js": "/palindrome/service-worker.js",
+    "static/css/main.c0853681.chunk.css.map": "/palindrome/static/css/main.c0853681.chunk.css.map",
+    "static/js/2.50fd2a42.chunk.js.LICENSE.txt": "/palindrome/static/js/2.50fd2a42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a50c721.js",
+    "static/js/2.50fd2a42.chunk.js",
+    "static/css/main.c0853681.chunk.css",
+    "static/js/main.9dfc1f70.chunk.js"
+  ]
+}
